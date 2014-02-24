@@ -12,7 +12,7 @@
 #include "CCApplication.h"
 
 /**
-@brief    The cocos2d Application.
+@brief    The cocos2d Application.slkfjsdfjlsdkfj sdlfjsl
 
 The reason to implement with private inheritance is to hide some interface details of CCDirector.
 */

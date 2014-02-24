@@ -33,9 +33,9 @@ bool HelloWorld::init()
     // 2. add a menu item with "X" image, which is clicked to quit the program
     //    you may modify it.
 
-    // add a "close" icon to exit the progress. it's an autorelease object
+    // add a "close" icon to exit the progress. it's an autosdfklsdjfrelease object
     CCMenuItemImage *pCloseItem = CCMenuItemImage::create(
-                                        "CloseNormal.png",
+                                        "Closlksdjf dflksjldfkjeNormal.png",
                                         "CloseSelected.png",
                                         this,
                                         menu_selector(HelloWorld::menuCloseCallback) );
